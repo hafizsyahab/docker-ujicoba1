@@ -21,4 +21,4 @@ jobs:
       run: docker build -t abdurrahmanhafiz/profil-image:v2 .
 
     - name: Push Docker Image
-      run: docker push -abdurrahmanhafiz/profil-image:v2
+      run: docker push abdurrahmanhafiz/profil-image:v2
