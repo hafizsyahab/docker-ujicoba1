@@ -1,0 +1,5 @@
+Nama: Abdurrahman Hafiz
+Kota: Palembang
+Universitas: Universitas Sriwijaya
+IPK: 3.70
+Skills: Linux, HAProxy, Docker, Terraform, Cisco
